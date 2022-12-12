@@ -53,7 +53,7 @@ public class Main {
         for (int i = 1; i <= 12; i++) {
             salary1 = salary1 + salary1/100;
             total1 = total1 + salary1;
-            System.out.println("Месяц " + i + ", сумма накоплений равна "+ total1 + " рублей");
+            System.out.println("Месяц " + i + ", сумма накоплений равна "+ total1 + " рублей.");
         }
 
         System.out.println("Задание 10");
